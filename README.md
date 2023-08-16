@@ -1,5 +1,5 @@
 <div>
-<img src=https://github.com/josePerezt/josePerezt/blob/main/gitPortdad.gif>
+<img src=https://github.com/josePerezt/josePerezt/blob/main/nuevaportada.gif>
   <h1>¡Hola, soy José M. Pérez 👋</h1>
   <h3>Desarrollador Full Stack | Apasionado por JavaScript</h3>
   <p>
