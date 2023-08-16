@@ -1,5 +1,5 @@
 <div>
-<img src=https://github.com/josePerezt/josePerezt/blob/main/nuevaportada.gif height="400px">
+<img src=https://github.com/josePerezt/josePerezt/blob/main/nuevaportada.gif height="300px">
   <h1>¡Hola, soy José M. Pérez 👋</h1>
   <h3>Desarrollador Full Stack | Apasionado por JavaScript</h3>
   <p>
