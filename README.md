@@ -1,5 +1,5 @@
-<img src="https://drive.google.com/file/d/1GX3C4BK9FEn077vwaUBb1uacv4yDIfA2/view?usp=sharing"/>
 <div>
+<img src="https://drive.google.com/file/d/1GX3C4BK9FEn077vwaUBb1uacv4yDIfA2/view?usp=sharing"/>
   <h1>¡Hola, soy José M. Pérez 👋</h1>
   <h3>Desarrollador Full Stack | Apasionado por JavaScript</h3>
   <p>
