@@ -13,7 +13,7 @@
     </ul>
     <h4>¡Conéctate Conmigo!</h4>
 <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/" ><img width="5%" src="https://drive.google.com/uc?export=view&id=1bj03dHdz12o0RYxuDeYhkOfWFQxmj5_k"> &nbsp;
-  <a href="mailtojosempt@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
+  <a href="josemptj@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
       <a href="https://www.instagram.com/josemiguel195/" ><img width="5%" src="https://drive.google.com/uc?export=view&id=1TIYphjbnlWZLtyfs59jU_uJcMSO3EOr4">
  
  <a><img src='https://img.shields.io/badge/+541145267541-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
