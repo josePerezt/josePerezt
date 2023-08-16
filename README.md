@@ -22,26 +22,26 @@
     <li>Comprensión de conceptos de seguridad y autenticación.</li>
   </ul>
   <h4>¡Conéctate Conmigo!</h4>
-  <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/">
+  <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/" target="_blank">
     <img
       width="5%"
       src="https://drive.google.com/uc?export=view&id=1bj03dHdz12o0RYxuDeYhkOfWFQxmj5_k"
     />
   </a>
-  <a href="mailto:josemptj@gmail.com">
+  <a href="mailto:josemptj@gmail.com" target="_blank">
     <img
       width="5%"
       src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
     />
   </a>
-  <a href="https://www.instagram.com/josemiguel195/">
+  <a href="https://www.instagram.com/josemiguel195/" target="_blank">
     <img
       width="5%"
       src="https://drive.google.com/uc?export=view&id=1TIYphjbnlWZLtyfs59jU_uJcMSO3EOr4"
     />
   </a>
 
-  <a href="tel:+541145267541">
+  <a href="tel:+541145267541" target="_blank">
     <img
       src="https://img.shields.io/badge/+541145267541-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010"
     />
