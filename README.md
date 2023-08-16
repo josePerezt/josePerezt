@@ -22,13 +22,13 @@
     <li>Comprensión de conceptos de seguridad y autenticación.</li>
   </ul>
   <h4>¡Conéctate Conmigo!</h4>
-  <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/" target="_blank">
     <img
       width="5%"
       src="https://drive.google.com/uc?export=view&id=1bj03dHdz12o0RYxuDeYhkOfWFQxmj5_k"
     />
   </a>
-  <a href="mailto:josemptj@gmail.com" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="mailto:josemptj@gmail.com" target="_blank">
     <img
       width="5%"
       src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
