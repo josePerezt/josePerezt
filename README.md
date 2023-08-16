@@ -1,5 +1,5 @@
+  <img src="https://drive.google.com/file/d/1GX3C4BK9FEn077vwaUBb1uacv4yDIfA2/view?usp=drive_link" alt="Image.gif"/>
  <div>
-  <img src="https://drive.google.com/file/d/1GX3C4BK9FEn077vwaUBb1uacv4yDIfA2/view?usp=drive_link"/>
     <h1>¡Hola, soy José M. Pérez 👋</h1>
     <h3>Desarrollador Full Stack | Apasionado por JavaScript</h3>
     <p>Tengo conocimientos sólidos en el mundo del desarrollo web y un amor por el ecosistema de JavaScript. He invertido tiempo en aprender y dominar las tecnologías clave para crear aplicaciones web modernas y eficientes.</p>
