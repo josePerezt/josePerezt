@@ -41,7 +41,7 @@
     />
   </a>
 
-  <a href="tel:+541145267541" target="_blank">
+  <a href="tel:+541145267541">
     <img
       src="https://img.shields.io/badge/+541145267541-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010"
     />
