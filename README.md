@@ -1,11 +1,11 @@
 <div>
-<img src=https://github.com/josePerezt/josePerezt/blob/main/nuevaportada.gif>
+<img src=https://github.com/josePerezt/josePerezt/blob/main/nuevaportada.gif height="200px">
   <h1>¡Hola, soy José M. Pérez 👋</h1>
   <h3>Desarrollador Full Stack | Apasionado por JavaScript</h3>
   <p>
     Tengo conocimientos sólidos en el mundo del desarrollo web y un amor por
     el ecosistema de JavaScript. He invertido tiempo en aprender y dominar
-    las tecnologías clave para crear aplicaciones web modernas y eficientes.
+    las tecnologías claves para crear aplicaciones web modernas y eficientes.
   </p>
   <h4>Mis Habilidades:</h4>
   <ul>
