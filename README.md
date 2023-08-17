@@ -21,6 +21,13 @@
     <li>Familiaridad con bases de datos SQL (postgres y sequalize).</li>
     <li>Comprensión de conceptos de seguridad y autenticación.</li>
   </ul>
+
+  <h2>## 👨🏽‍💻 Estos son alguno de los proyectos en los que trabajado</h2> 
+  <a href="https://github.com/josePerezt/Dogs-Projets" target="_blank"> The Dogs Api</a>
+
+  <img  src=""/>
+  
+  
   <h4>¡Conéctate Conmigo!</h4>
   <a href="https://www.linkedin.com/in/josemiguelpereztorrealba/" target="_blank">
     <img
