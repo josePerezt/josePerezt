@@ -23,7 +23,7 @@
   </ul>
 
   <h2> 👨🏽‍💻 Estos son alguno de los proyectos en los que he trabajado</h2> 
-  <a href="https://github.com/josePerezt/Dogs-Projets" target="_blank" font-size="10px"> 🐶 The Dogs Api </a> <br/><br/>
+  <a href="https://github.com/josePerezt/Dogs-Projets" target="_blank" size="10px"> 🐶 The Dogs Api </a> <br/><br/>
 
   <img  height="200" width="400" src="https://github.com/josePerezt/josePerezt/blob/main/utilsImages/thedog/Captura%20de%20pantalla%202023-08-17%20101129.png"/>
 
