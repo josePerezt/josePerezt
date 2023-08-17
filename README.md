@@ -22,8 +22,8 @@
     <li>Comprensión de conceptos de seguridad y autenticación.</li>
   </ul>
 
-  <h2> 👨🏽‍💻 Estos son alguno de los proyectos en los que trabajado</h2> 
-  <a href="https://github.com/josePerezt/Dogs-Projets" target="_blank"> 🐶 The Dogs Api</a> <br/><br/>
+  <h2> 👨🏽‍💻 Estos son alguno de los proyectos en los que he trabajado</h2> 
+  <a href="https://github.com/josePerezt/Dogs-Projets" target="_blank"> <h3>🐶 The Dogs Api</h3> </a> <br/><br/>
 
   <img  height="200" width="400" src="https://github.com/josePerezt/josePerezt/blob/main/utilsImages/thedog/Captura%20de%20pantalla%202023-08-17%20101129.png"/>
 
