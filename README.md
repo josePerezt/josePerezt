@@ -15,8 +15,7 @@
       Manejo de estado global con React Redux para aplicaciones escalables.
     </li>
     <li>
-      Conocimiento del desarrollo del lado del servidor con Node.js y
-      Express.js.
+      Conocimiento del desarrollo del lado del servidor con Python/Django Node.js/Express.js.
     </li>
     <li>Familiaridad con bases de datos SQL (postgres y sequalize).</li>
     <li>Comprensión de conceptos de seguridad y autenticación.</li>
